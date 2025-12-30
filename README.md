@@ -73,4 +73,12 @@ The dataset consists of **5 main tables** used to build the Restaurant Ratings d
 
 <img width="1154" height="736" alt="image" src="https://github.com/user-attachments/assets/036acc6c-8306-4e0a-b52f-a6d41e5751df" />
 
+## 🧠 Design Thinking Process 
+
+1️⃣ Empathize  
+
+<img width="932" height="616" alt="image" src="https://github.com/user-attachments/assets/c304edb3-0c5e-4041-9283-fc72b14d318c" />
+
+
+
 
