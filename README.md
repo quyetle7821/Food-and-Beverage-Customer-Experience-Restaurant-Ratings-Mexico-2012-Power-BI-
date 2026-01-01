@@ -154,8 +154,57 @@ This part is in the dashboard
 
 ### 📌 Key Findings: 
 
+**1 Higher Price Tiers Receive Better Ratings (Especially Service)**
+
+- **Medium/High** segments score higher than **Low** (Food & Service).
+
+→ Suggests customers perceive better value/experience when restaurants are positioned above low-price.
+
+**2. Low Price Has the Biggest Service Weakness**
+
+- In **Low** tier, **Service (~0.92)** is notably below Food (~1.13).
+
+→ The fastest uplift lever for low-price restaurants is **service consistency** (speed, staff attitude, order accuracy).
+
+**3. Food–Service Gap Highlights Where Experience Is Unbalanced**
+
+- Biggest positive gaps (Food > Service): **Fast Food (+0.23)**, **Mexican (+0.20)**, **Chinese (+0.15)**.
+
+→ These cuisines likely need **service process improvements** more than menu changes.
+
+- Negative gaps (Service > Food): **Brewery/Seafood/American (~-0.03)**.
+
+→ These cuisines may have good service but should **upgrade food quality** to lift overall.
+
+**4. Volume vs Quality Trade-off by Cuisine**
+
+- High-volume cuisines (e.g., **Mexican/Bar/Cafeteria**) drive most reviews but cluster around **mid-level quality**.
+- Some cuisines **show higher quality but smaller scale** (more niche).
+
+→ Use this to guide **selective expansion**: scale “high-quality niche” in the right cities, while fixing experience in “high-volume mid-quality”.
+
+**5. Facilities (Area × Parking) Show Signals but Need Sample-Size Guardrails**
+
+- Certain combinations look better/worse, but results can be skewed by low counts (some facility types have few ratings).
+
+→ Recommend showing #Ratings or setting a minimum sample threshold before concluding.
+
+**6. Top Restaurants Are Skewed by Coverage of Cuisine Data**
+
+- The table total is **1043 ratings**, lower than overall 1.1K → indicates cuisine-linked analysis excludes records without cuisine mapping.
+
+→ Important caveat: top lists by cuisine may not represent the full dataset.
+
 #### 3️⃣ Personal Preference
 
 <img width="1204" height="697" alt="image" src="https://github.com/user-attachments/assets/1cd0cfad-9d63-414d-85ad-f263bfd7b5ea" />
+
+### 📌 Key Findings: 
+
+**1. Preference Matching Does NOT Improve Ratings (Negative Uplift)**
+
+- **Avg Overall (Match) = 1.11 vs Avg Overall (NoMatch) = 1.22 → Uplift = -0.12.**
+
+→ Personalization based on cuisine preference is not a strong driver in this dataset.
 
 
