@@ -207,4 +207,46 @@ This part is in the dashboard
 
 → Personalization based on cuisine preference is not a strong driver in this dataset.
 
+**2. MatchShare Is Low → Limited Coverage for Personalization**
+
+- **MatchShare = 18.86%** (only ~1/5 reviews are “matched”).
+
+→ Even if match helped, its business impact would be limited unless match share increases.
+
+**3. Rating Mix Shifts Slightly Worse Under “Match”**
+
+- Rating structure chart shows the **Match group has a higher** **“bad” share** (red) and a lower “good” share than NoMatch.
+
+→ Suggests “matching cuisine” alone doesn’t guarantee a better experience; execution matters more (service/quality).
+
+**4. The Match vs NoMatch Gap Varies by Cuisine (Not Universal)**
+
+- The cuisine comparison chart indicates some cuisines have **smaller gaps**, while others show **NoMatch outperforming Match** clearly.
+
+→ Personalization should be **tested by cuisine**, not rolled out broadly.
+
+**5. MatchShare Is Highly Skewed by City (Potential Bias)**
+
+- City table highlights extremely high MatchShare in **Ciudad Victoria (~63.86%)** but **low Avg Overall (~0.94).**
+
+→ City effect may be dominating: high match share can coexist with low satisfaction → underlying issues likely service/operations, not preference fit.
+
+**6. San Luis Potosi Still Dominates Volume, So Match Impact Is Mostly There**
+
+- Match share by city shows most reviews come from **San Luis Potosi**; improvements targeted there will move overall metrics most.
+
+→ If running personalization pilots, start in **high-volume city** segments to get reliable results.
+
+## 🔎 Final Conclusion & Recommendations  
+
+## 🔎 Final Conclusion & Recommendation
+
+| Strategy | Insight | Recommendation |
+|---|---|---|
+| **1. Market Prioritization (City Strategy)** | - Satisfaction is **moderate** overall (**Avg Overall 1.20 \| Food 1.22 \| Service 1.09**), with **Service** being the weakest dimension.<br>- Reviews are **highly concentrated in San Luis Potosi** (largest volume → biggest impact).<br>- **Cuernavaca** shows **higher quality** (best Avg Overall) with meaningful volume, while **Ciudad Victoria** has **lower satisfaction**. | - **Prioritize Cuernavaca** as a pilot market for expansion/benchmarking best practices.<br>- **Improve experience in San Luis Potosi first** (volume driver → fastest overall uplift).<br>- **Pause expansion in Ciudad Victoria** until service/experience issues are addressed and monitored. |
+| **2. Cuisine / Concept Portfolio Optimization** | - High-volume cuisines like **Mexican / Bar / Cafeteria** attract the most reviews but deliver only **mid-level quality**.<br>- Some cuisines (e.g., **Brewery / Seafood / Chinese / International**) show **higher quality** but smaller scale.<br>- Food–Service Gap differs by cuisine: **Fast Food/Mexican/Chinese** show larger gaps (Food > Service). | - **Scale selectively** in high-quality cuisines in the right cities (quality-first expansion).<br>- For high-volume cuisines, focus on **raising service consistency** and “core experience” to move ratings above benchmark.<br>- Use **Food–Service Gap** to target improvements: service upgrades for gap-positive cuisines; food upgrades where service already leads. |
+| **3. Pricing & Positioning** | - **Medium/High price** tiers are rated higher than **Low** (especially on service).<br>- Low tier shows the most visible **service weakness** (Service significantly lower than Food). | - For new investments, prioritize **mid-to-high positioning** where customers rate experience better.<br>- For Low-price restaurants, implement **service playbooks** (speed, accuracy, staff training) to lift ratings quickly and reduce “bad” reviews. |
+| **4. Personalization & Customer Preference** | - Preference match share is low (**MatchShare ~18.86%**).<br>- Matching does **not** increase ratings (**Match 1.11 vs NoMatch 1.22; Uplift -0.12**).<br>- Match effect varies by cuisine/city and can be biased by location patterns. | - Do **not** invest heavily in personalization as a primary lever yet.<br>- Run **small pilots** only in specific cuisine/city segments where signals are promising; otherwise focus on baseline experience quality.<br>- Improve discoverability/clarity of offerings (menu descriptions, recommendations) instead of strict “match-based” targeting. |
+| **5. Measurement & Data Guardrails (Next Steps)** | - Cuisine analysis does not cover all ratings (cuisine-linked views show fewer records) → risk of biased conclusions.<br>- Some segments (cities/cuisines/facilities) have small sample sizes → unstable averages. | - Add **#Ratings** next to key visuals and set minimum thresholds before making decisions.<br>- Track success using a **North Star**: increase Avg Overall + increase share of “Good” ratings while reducing “Bad”.<br>- If possible, enrich data with **revenue/footfall** and **costs** to estimate ROI of facility/pricing changes. |
+
 
