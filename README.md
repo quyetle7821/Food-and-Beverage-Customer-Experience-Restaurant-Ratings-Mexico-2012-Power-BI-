@@ -84,9 +84,9 @@ The dataset consists of **5 main tables** used to build the Restaurant Ratings d
 
 ### 2️⃣ Define point of view 
 
-<img width="1368" height="912" alt="image" src="https://github.com/user-attachments/assets/d578e601-d013-45bd-95e9-0206dd38cef2" />
+<img width="1359" height="789" alt="image" src="https://github.com/user-attachments/assets/a7ed21f4-92b1-49cc-8165-ccdb720c6624" />
 
-<img width="1370" height="912" alt="image" src="https://github.com/user-attachments/assets/166438ee-c998-4aff-b723-df2df0c1ede0" />
+<img width="1355" height="877" alt="image" src="https://github.com/user-attachments/assets/1f805aa1-20cb-43e4-8a0b-98dc43c80e59" />
 
 
 ### 3️⃣ Ideate  
