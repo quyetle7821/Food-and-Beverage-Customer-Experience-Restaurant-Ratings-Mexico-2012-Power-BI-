@@ -86,15 +86,17 @@ The dataset consists of **5 main tables** used to build the Restaurant Ratings d
 
 <img width="1359" height="789" alt="image" src="https://github.com/user-attachments/assets/a7ed21f4-92b1-49cc-8165-ccdb720c6624" />
 
-<img width="1359" height="890" alt="image" src="https://github.com/user-attachments/assets/ce49abb5-ec3f-4420-b479-837c63faaf5f" />
+<img width="1366" height="905" alt="image" src="https://github.com/user-attachments/assets/8a95847e-efa7-4b2f-89bf-ad4443132611" />
+
 
 
 
 ### 3️⃣ Ideate  
 
-<img width="1373" height="905" alt="image" src="https://github.com/user-attachments/assets/ab6c7b5a-816c-41a8-aa93-bd9d97b6e5fd" />
+<img width="1367" height="911" alt="image" src="https://github.com/user-attachments/assets/bed30e0b-0354-4f40-b358-fbb4eeac003f" />
 
-<img width="1370" height="906" alt="image" src="https://github.com/user-attachments/assets/fabff289-b21e-4ebd-b0be-61fd614727ad" />
+<img width="1362" height="725" alt="image" src="https://github.com/user-attachments/assets/fc254fb6-5ba9-46d4-b901-c6ead1deae8c" />
+
 
 
 ### 4️⃣ Prototype and review 
