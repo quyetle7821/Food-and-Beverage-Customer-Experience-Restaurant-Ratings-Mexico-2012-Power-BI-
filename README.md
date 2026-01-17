@@ -114,41 +114,43 @@ This part is in the dashboard
 
 ### 📌 Key Findings: 
 
-**1. Overall Satisfaction Is “Okay”, Service Lags Behind**
+**1. Overall satisfaction is “moderate”, and Service is the main weakness**
    
-- Avg ratings are moderate **(Avg Overall 1.20 | Avg Food 1.22 | Avg Service 1.09)**.
+- Average ratings are **Avg Overall = 1.20**, **Avg Food = 1.22**, **Avg Service = 1.09**.
   
-→ The biggest improvement lever is **service quality**, not food.
+→ The **biggest uplift lever is Service**, not Food.
 
-**2. Most Reviews Are Positive, but “Bad” Still Makes Up a Meaningful Share**
+**2. Strong dataset coverage: many restaurants & consumers, with ~1.16K ratings**
 
-- Rating distribution by label: **Good (486)** > **OK (421)** > **Bad (254)** (total ~1.1K reviews).
+- The dashboard covers **130 restaurants** and **138 consumers**.
+- Rating volume from the chart totals **~1,161 ratings** (Good 486 + OK 421 + Bad 254).
 
-→ Focus on **reducing bad experiences** to lift the overall average faster.
+→ Insights are **directionally reliable** for city/cuisine comparisons (especially where volume is high).
 
-**3. Review Volume Is Concentrated — San Luis Potosi Dominates the Dataset**
+**3. Most reviews are positive, but “Bad” still has a meaningful share**
 
-- **San Luis Potosi = 921 ratings** (largest volume) with Avg Overall ~1.21.
+- Distribution by label: **Good (486)** > **OK (421)** > **Bad (254).**
 
-→ Any initiative in SLP will have the **highest impact** on overall results.
+→ Reducing “Bad” experiences is the **fastest way** to lift Avg Overall.
 
-**4. Clear City Performance Gap (Quality vs Volume)**
+**4. Review volume is highly concentrated — San Luis Potosi dominates impact**
 
-- **Cuernavaca** has higher quality (Avg Overall **~1.38**) with moderate volume (**~107**), while **Ciudad Victoria** is lower (Avg Overall **~0.93**, **~121** ratings).
+- **San Luis Potosi = 921 ratings** (largest volume) with **Avg Overall ~1.21.**
 
-→ Prioritize **Cuernavaca** as a quality benchmark and investigate/repair **Ciudad Victoria**.
+→ Any improvement program in **SLP** will move the overall metric the most (highest leverage city).
 
-**5. Mexican Cuisine Leads Review Share**
+**5. Clear city performance gap (Quality vs Volume)**
 
-- Cuisine share is led by **Mexican (238 | ~30%)**, followed by **Bar (140 | ~18%)** and **Cafeteria (102 | ~13%).**
+- **Cuernavaca** shows **highest quality** **(Avg Overall ~1.38**) with moderate volume (~107).
+- **Ciudad Victoria** is the **lowest performer** (**Avg Overall ~0.93**) with smaller volume (~83).
 
-→ Improving experience in top cuisines will move the needle the most.
+→ Use **Cuernavaca as a benchmark**, and prioritize fixing experience issues in **Ciudad Victoria**.
 
-**6. Young Consumers Drive Most Ratings**
+**6. Mexican cuisine leads review share — improving top cuisines moves the needle**
 
-- The **<25** age group contributes the largest share of reviews (dominant segment on the chart).
+- Cuisine share is led by **Mexican (~30%)**, followed by **Bar (~18%)**, **Cafeteria (~13%)**, **Fast Food (~12%)**, **Seafood (~8%)** (**+ Other ~19%**).
 
-→ Target experience improvements and messaging toward this primary reviewer group (but still monitor bias vs other age groups).
+→ Focusing quality/service improvements in **top-volume cuisines** (especially Mexican/Bar) will create **the biggest overall lift**.
 
 
 ### 2️⃣ Restaurant & Cuisine
@@ -157,46 +159,46 @@ This part is in the dashboard
 
 ### 📌 Key Findings: 
 
-**1 Higher Price Tiers Receive Better Ratings (Especially Service)**
+**1. Overall satisfaction is still “moderate”, and Service remains the main bottleneck**
 
-- **Medium/High** segments score higher than **Low** (Food & Service).
+- **Avg Overall 1.20** while **Avg Food 1.22** > **Avg Service 1.09**.
 
-→ Suggests customers perceive better value/experience when restaurants are positioned above low-price.
+→ If you want to move Avg Overall up, **service consistency** is the fastest lever.
 
-**2. Low Price Has the Biggest Service Weakness**
+**2. Clear “Price → Quality” gradient, with Low-price suffering most on Service**
 
-- In **Low** tier, **Service (~0.92)** is notably below Food (~1.13).
+- **Medium/High** tiers rate higher than **Low** for both Food & Service
+- In **Low** tier, **Service drops harder** than Food (service visibly lower than food).
 
-→ The fastest uplift lever for low-price restaurants is **service consistency** (speed, staff attitude, order accuracy).
+→ For low-price restaurants: prioritize **speed**, **attitude**, **order accuracy** over menu expansion.
 
-**3. Food–Service Gap Highlights Where Experience Is Unbalanced**
+**3. Food–Service Gap pinpoints what to fix by cuisine (service process vs food quality)**
 
-- Biggest positive gaps (Food > Service): **Fast Food (+0.23)**, **Mexican (+0.20)**, **Chinese (+0.15)**.
+- Biggest positive gaps (**Food > Service**): **Fast Food (+0.23)**, **Mexican (+0.20)**, **Chinese (+0.15)**.
+- Negative gaps (**Service > Food**) indicate “service ok but food lags”: **Brewery/Seafood/American (~-0.03)**.
 
-→ These cuisines likely need **service process improvements** more than menu changes.
+→ Use this chart to decide **where to invest in service training** vs **food/menu upgrade.**
 
-- Negative gaps (Service > Food): **Brewery/Seafood/American (~-0.03)**.
+**4. Alcohol service is associated with a better satisfaction mix (more “Good”, less “Bad”)**
 
-→ These cuisines may have good service but should **upgrade food quality** to lift overall.
+- **Wine & Beer / Full Bar** show higher **Good** share (**~45–46%**) and lower **Bad** share **(~20%)** vs **None** (Good **~40%**, Bad **~22%**).
 
-**4. Volume vs Quality Trade-off by Cuisine**
+→ Offering alcohol (or the experience that comes with it) correlates with **better customer perception**.
 
-- High-volume cuisines (e.g., **Mexican/Bar/Cafeteria**) drive most reviews but cluster around **mid-level quality**.
-- Some cuisines **show higher quality but smaller scale** (more niche).
+**5. Volume vs Quality trade-off: high-volume cuisines drive impact, but not always top quality**
 
-→ Use this to guide **selective expansion**: scale “high-quality niche” in the right cities, while fixing experience in “high-volume mid-quality”.
+- Large-review cuisines (e.g., **Mexican / Bar / Cafeteria / Other**) cluster around **mid-level Avg Overall**.
+- Some cuisines appear **higher quality but smaller scale** (niche opportunities).
 
-**5. Facilities (Area × Parking) Show Signals but Need Sample-Size Guardrails**
+→ Strategy: **fix experience** in high-volume cuisines first, while selectively scaling “high-quality niche” cuisines in the right cities.
 
-- Certain combinations look better/worse, but results can be skewed by low counts (some facility types have few ratings).
+**6. City concentration + quality gap: where to prioritize actions**
 
-→ Recommend showing #Ratings or setting a minimum sample threshold before concluding.
+- **San Luis Potosi** dominates volume (**889 ratings**) with Avg Overall **~1.21** → biggest “impact market”.
+- **Cuernavaca** has the best quality (**1.47**) but low volume (**59**) → benchmark city.
+- **Ciudad Victoria** is lowest **(0.94)** with moderate volume (**83**) → investigate root causes.
 
-**6. Top Restaurants Are Skewed by Coverage of Cuisine Data**
-
-- The table total is **1043 ratings**, lower than overall 1.1K → indicates cuisine-linked analysis excludes records without cuisine mapping.
-
-→ Important caveat: top lists by cuisine may not represent the full dataset.
+→ Prioritize **SLP for impact**, **Cuernavaca for best-practice**, and **Ciudad Victoria for recovery plan**.
 
 #### 3️⃣ Personal Preference
 
