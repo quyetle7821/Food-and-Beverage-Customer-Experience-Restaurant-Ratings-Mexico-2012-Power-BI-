@@ -110,7 +110,8 @@ This part is in the dashboard
 
 ### 1️⃣ Overview
 
-<img width="1202" height="696" alt="image" src="https://github.com/user-attachments/assets/842facec-d13b-497b-9d8f-d016e891cd9e" />
+<img width="1206" height="699" alt="image" src="https://github.com/user-attachments/assets/9544d953-3140-4461-af97-44b20361fc5e" />
+
 
 ### 📌 Key Findings: 
 
@@ -155,7 +156,8 @@ This part is in the dashboard
 
 ### 2️⃣ Restaurant & Cuisine
 
-<img width="1207" height="691" alt="image" src="https://github.com/user-attachments/assets/c8981a14-0045-4db0-b7cf-e96af9036be3" />
+<img width="1209" height="690" alt="image" src="https://github.com/user-attachments/assets/9044c4dc-feea-4d21-b0ce-dbdc0aafed77" />
+
 
 ### 📌 Key Findings: 
 
@@ -202,7 +204,8 @@ This part is in the dashboard
 
 #### 3️⃣ Personal Preference
 
-<img width="1204" height="697" alt="image" src="https://github.com/user-attachments/assets/1cd0cfad-9d63-414d-85ad-f263bfd7b5ea" />
+<img width="1209" height="698" alt="image" src="https://github.com/user-attachments/assets/c016e7b5-6978-4f4e-9958-e5e7745fdcac" />
+
 
 ### 📌 Key Findings: 
 
