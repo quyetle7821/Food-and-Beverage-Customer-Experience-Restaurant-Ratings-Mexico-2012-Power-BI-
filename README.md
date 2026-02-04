@@ -188,13 +188,14 @@ This part is in the dashboard
 
 → Strategy: **fix experience** in high-volume cuisines first, while selectively scaling “high-quality niche” cuisines in the right cities.
 
-**6. City concentration + quality gap: where to prioritize actions**
+**6. City action priority is clearer when combining Volume + Avg Overall + Share-of-Total**
 
-- **San Luis Potosi** dominates volume (**889 ratings**) with Avg Overall **~1.21** → biggest “impact market”.
-- **Cuernavaca** has the best quality (**1.47**) but low volume (**59**) → benchmark city.
-- **Ciudad Victoria** is lowest **(0.94)** with moderate volume (**83**) → investigate root causes.
+- City matrix highlights :
+  +   **San Luis Potosi** dominates volume (**889 / 1043 cuisine-linked ratings**) with mid Avg Overall (~1.21) → **highest impact market.**
+  +   **Cuernavaca** has the best quality (**Avg Overall ~1.47**) but smaller volume (59) → **benchmark city**.
+  +   **Ciudad Victoria** is lowest quality (**~0.94**) with meaningful volume (83) → **recovery plan.**
 
-→ Prioritize **SLP for impact**, **Cuernavaca for best-practice**, and **Ciudad Victoria for recovery plan**.
+→ Prioritize :  **SLP (impact)** → **Ciudad Victoria (fix)** → **Cuernavaca (benchmark & replicate)**..
 
 #### 3️⃣ Personal Preference
 
